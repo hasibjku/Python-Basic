@@ -8,4 +8,3 @@ mark=42.45
 # and a number, and then prints them to the console.
 print(greeting)
 print("The age is:", age)
-print("The mark is:", mark)
